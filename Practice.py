@@ -1,2 +1,5 @@
-print("How are you brother?")
-print("I'm fine bro!")
+def add(x, y):
+    return x + y
+
+def subtract(x, y):
+    return x - y
